@@ -1,1 +1,2 @@
-# awwwards-inspired-website
+# Coming soon....
+# This is a awwwards.com inspired website created from scratch.
